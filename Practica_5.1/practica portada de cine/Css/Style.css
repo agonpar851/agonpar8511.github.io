@@ -1,0 +1,32 @@
+
+body {
+	background: lightpink;
+
+}
+
+header{
+	background: goldenrod;
+	font-size: 20px;
+	font-family:"Arial";
+	
+}
+img{
+	width:1800px;
+	height:950px;
+}
+h2{
+	color: seagreen;
+	background: darkred;
+
+}
+td{
+	color: blue;
+}
+table {
+	font-size: 20px;
+	font-family: "arial";
+}
+#imagen_de_reserva {
+	width: 150px;
+	height: 150px;
+}
